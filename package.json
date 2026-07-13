@@ -1,0 +1,16 @@
+{
+  "name": "tg-reaction-bot",
+  "version": "1.0.0",
+  "description": "Free, self-hosted Telegram reaction-bot control panel running entirely on Cloudflare Workers + D1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "node tests/test.mjs",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  }
+}
