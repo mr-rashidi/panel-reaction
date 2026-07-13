@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot-dashboard.png" width="400" alt="پیش‌نمایش پنل" />
+  <img src="assets/screenshot-dashboard.png" width="350" alt="پیش‌نمایش پنل" />
 </p>
 
 ---
