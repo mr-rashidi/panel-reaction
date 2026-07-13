@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="520" alt="بنر پنل ری‌اکشن تلگرام" />
+  <img src="assets/banner.png" width="400" alt="بنر پنل ری‌اکشن تلگرام" />
 </p>
 
 <h1 align="center">⚡ پنل مدیریت ری‌اکشن تلگرام</h1>
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot-dashboard.png" width="500" alt="پیش‌نمایش پنل" />
+  <img src="assets/screenshot-dashboard.png" width="400" alt="پیش‌نمایش پنل" />
 </p>
 
 ---
