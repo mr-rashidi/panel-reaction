@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="640" alt="TG Reaction Bot Panel banner" />
+  <img src="assets/banner.png" width="400" alt="TG Reaction Bot Panel banner" />
 </p>
 
 <h1 align="center">⚡ TG Reaction Bot Panel</h1>
@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="assets/screenshot-dashboard.png" width="720" alt="Panel preview" />
+  <img src="assets/screenshot-dashboard.png" width="340" alt="Panel preview" />
 </p>
 
 ---
