@@ -372,7 +372,7 @@ reactions with smart mode, bulk import, account/session management, and five the
 
 ## 🙏 Credits
 
-Built and maintained by **Mehdi Rashidizadeh**
+Built and maintained by **Mehdi Rashidi-zadeh**
 ([@code_watch](https://t.me/code_watch) on Telegram).
 
 ## 📄 License
